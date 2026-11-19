@@ -15,6 +15,8 @@ Samostatné EXE obsahuje .NET runtime, nič sa neinštaluje. Ulož ho do prieči
 - nadpisy, odseky, citácie, vnorené zoznamy a zoznamy úloh, tabuľky so zarovnaním, bloky kódu,
 - odkazy na nadpisy v dokumente a na ďalšie Markdown súbory, lokálne obrázky,
 - svetlá a tmavá schéma, voľba typu a veľkosti písma (`Ctrl++`, `Ctrl+-`, `Ctrl+0`, `Ctrl+koliesko`),
+- hľadanie v dokumente (`Ctrl+F`, ďalší výskyt `Enter` alebo `F3`) bez ohľadu na veľkosť písmen a diakritiku,
+- voliteľné priehľadné okno so zaoblením a tieňom (ponuka Nastavenia; predvolene vypnuté, obyčajné okno je rýchlejšie),
 - zmenený súbor sa obnoví sám, ručne klávesom `F5`,
 - text sa dá označiť a kopírovať,
 - okno si pamätá polohu, veľkosť a monitor.
